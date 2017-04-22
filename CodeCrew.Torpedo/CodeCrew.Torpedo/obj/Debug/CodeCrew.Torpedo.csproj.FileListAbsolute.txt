@@ -1,1 +1,2 @@
 D:\[minden]\[SourceTree]\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\bin\Debug\CodeCrew.Torpedo.exe.config
+C:\Users\PDavidson\Documents\codecrewMSimagine\CodeCrew.Torpedo\CodeCrew.Torpedo\bin\Debug\CodeCrew.Torpedo.exe.config
