@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CodeCrew.Torpedo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
+        Title="MainWindow"
+		ResizeMode="CanMinimize">
+    <Grid
+		Width="500"
+		Height="500">
         
     </Grid>
 </Window>
